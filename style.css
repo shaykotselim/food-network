@@ -10,6 +10,9 @@ margin: 0;
 .display-flex{
     display: flex;
 }
+section{
+    margin-bottom: 10px;
+}
 h1{
     font-size: 50px;
 }
@@ -52,4 +55,7 @@ p{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     
+}
+.center{
+    text-align: center;
 }
