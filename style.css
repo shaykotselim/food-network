@@ -59,3 +59,18 @@ p{
 .center{
     text-align: center;
 }
+ 
+.shadow{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding-left: 2%;
+    padding-top: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5%;
+
+}
+.shadow img{
+        width: 90%;
+        
+}
